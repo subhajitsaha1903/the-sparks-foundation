@@ -1,4 +1,6 @@
 # the-sparks-foundation
-The Sparks Foundation
+## The Sparks Foundation
 
-Data Science & Business Analytics Internship
+## Data Science & Business Analytics Internship
+
+## GRIP - SEPTEMBER 2021
